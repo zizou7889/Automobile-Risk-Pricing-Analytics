@@ -100,26 +100,6 @@ The insights from this project can support:
 
 ---
 
-## Repository Structure (Suggested)
-
-```
-Automobile-Risk-Pricing-Analytics/
-│
-├── Data/
-│   ├── automobile_data.csv
-│   └── data_dictionary.xlsx
-│
-├── Dashboard/
-│   └── Automobile_Analytics.pbix
-│
-├── Documentation/
-│   └── Project_Documentation.pdf
-│
-└── README.md
-```
-
----
-
 ## Disclaimer
 
 This project is created for **educational and portfolio purposes only**.
